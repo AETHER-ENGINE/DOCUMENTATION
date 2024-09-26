@@ -34,4 +34,10 @@ When the setup is done, you can now sign all your commits with the -S flag.
 git commit -S -m "my commit"
 ```
 
-Your commits are now marked as verified on GitHub.
+You can also define that you wanna sign all your commits by default with the following command:
+
+```bash
+git config --global commit.gpgSign true
+```
+
+Your commits should now be marked as verified on GitHub.
