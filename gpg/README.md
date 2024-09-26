@@ -1,5 +1,3 @@
-[![Github logo](https://www.flaticon.com/free-icon/github-logo_25231)](https://github.com)
-
 # Setup GPG Key on Github
 
 Here is a small tutorial to setup a GPG key on your `GitHub account`.
